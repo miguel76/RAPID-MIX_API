@@ -1,0 +1,16 @@
+[submodule "dependencies/Maximilian"]
+	path = dependencies/Maximilian
+	url = https://github.com/micknoise/Maximilian.git
+[submodule "dependencies/RapidLib"]
+	path = dependencies/RapidLib
+	url = http://gitlab.doc.gold.ac.uk/rapid-mix/RapidLib.git
+	branch = rapidmix-api
+[submodule "dependencies/pipo"]
+	path = dependencies/pipo
+	url = https://github.com/Ircam-RnD/pipo
+[submodule "dependencies/xmm"]
+	path = dependencies/xmm
+	url = https://github.com/Ircam-RnD/xmm
+[submodule "dependencies/repovizz2_cpp"]
+	path = dependencies/repovizz2_cpp
+	url = https://github.com/slowmountain/repovizz2_cpp.git
